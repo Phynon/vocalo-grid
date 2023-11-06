@@ -1,39 +1,18 @@
-![动画生涯个人喜好表](https://github.com/itorr/anime-grid/blob/master/simple.jpg?raw=true)
+# 「ボカロ生涯个人喜好表生成器」
 
-# 🤖「动画生涯个人喜好表生成器」
+## 描述
 
-一个生成 动画生涯个人喜好表 的在线网页工具
+在线网页工具，用于生成ボカロ生涯个人喜好表.
 
 ## 地址 
 
-https://lab.magiconch.com/anime-grid/
+(to be completed)
 
 ## 类别
 
- - 入坑作
- - 最喜欢
- - 看最多次
- - 最想安利
-
- - 最佳剧情
- - 最佳画面
- - 最佳配乐
- - 最佳配音
-
- - 最治愈
- - 最感动
- - 最虐心
- - 最被低估
-
- - 最过誉
- - 最离谱
- - 最讨厌
-
-## GitHub
-https://github.com/itorr/anime-grid
+(to be completed)
 
 
-## 利用
- - 动画信息来自 番组计划 https://bangumi.tv/
-
-禁止 商业、盈利 相关利用
+## 致谢
+ - ![动画生涯个人喜好表](https://github.com/itorr/anime-grid/)
+ - 歌曲信息来自优秀的歌声合成歌曲数据库 ![VocaDB](https://vocadb.net/)
