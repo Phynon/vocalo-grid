@@ -14,5 +14,5 @@
 
 
 ## 致谢
- - ![动画生涯个人喜好表](https://github.com/itorr/anime-grid/)
- - 歌曲信息来自优秀的歌声合成歌曲数据库 ![VocaDB](https://vocadb.net/)
+ - [动画生涯个人喜好表](https://github.com/itorr/anime-grid/)
+ - 歌曲信息来自优秀的歌声合成歌曲数据库 [VocaDB](https://vocadb.net/)
